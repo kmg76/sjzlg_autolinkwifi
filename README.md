@@ -1,4 +1,6 @@
 # sjzlg_autolinkwifi
+写这个文件主要是让我树莓派能接入校园网，远程连接我的树莓派，所以没有考虑到win平台
+
 该项目能实现在Linux平台下使用python自动连接校园网
 
 camnet.py主文件

@@ -1,1 +1,2 @@
 # sjzlg_autolinkwifi
+该项目能实现在Linux平台下使用python自动连接校园网
